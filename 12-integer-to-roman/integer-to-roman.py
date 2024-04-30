@@ -27,6 +27,8 @@ class Solution(object):
         return roman_numeral
 
 solution = Solution()
-
+print(solution.intToRoman(3))     
+print(solution.intToRoman(58))    
+print(solution.intToRoman(1994))  
 
         
